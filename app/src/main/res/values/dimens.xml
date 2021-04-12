@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tigadp">3dp</dimen>
+    <dimen name="seratuslimapuluhdp">150dp</dimen>
+    <dimen name="limapuluhdp">50dp</dimen>
+    <dimen name="delapandp">8dp</dimen>
+    <dimen name="satudp">1dp</dimen>
+    <dimen name="tigaratuslimapuluhdp">350dp</dimen>
+    <dimen name="duapuluhdp">20dp</dimen>
+    <dimen name="noldp">0dp</dimen>
+    <dimen name="dualimasp">25sp</dimen>
+    <dimen name="duaempatdp">24dp</dimen>
+    <dimen name="sepuluhdp">10dp</dimen>
+    <dimen name="enambelasdp">16dp</dimen>
+    <dimen name="sembilanpuluhdp">90dp</dimen>
+    <dimen name="tigapuluhsp">30sp</dimen>
+    <dimen name="limadp">5dp</dimen>
+</resources>
